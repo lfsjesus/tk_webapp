@@ -2,37 +2,37 @@
  "name": "App",
  "icons": [
   {
-   "src": "\/android-icon-36x36.png",
+   "src": "https://1.bp.blogspot.com/-y-fwUp3Js38/X3e_acPnawI/AAAAAAAASHM/NjPltWkEX480CD_w96Y2HMrmOpBLu5WWgCLcBGAsYHQ/s36/android-icon-36x36.png",
    "sizes": "36x36",
    "type": "image\/png",
    "density": "0.75"
   },
   {
-   "src": "\/android-icon-48x48.png",
+   "src": "https://1.bp.blogspot.com/-IKiOsiqFRbk/X3e_a5GEO0I/AAAAAAAASHQ/PEOq96yrV8gg2kI5gzFUU4Zf4R3j6-0UQCLcBGAsYHQ/s48/android-icon-48x48.png",
    "sizes": "48x48",
    "type": "image\/png",
    "density": "1.0"
   },
   {
-   "src": "\/android-icon-72x72.png",
+   "src": "https://1.bp.blogspot.com/-zK-0JEarxhU/X3e_bBd968I/AAAAAAAASHY/7F1N4nHPVd4NsEJT2cwDHaokkZ_dDot0QCLcBGAsYHQ/s72/android-icon-72x72.png",
    "sizes": "72x72",
    "type": "image\/png",
    "density": "1.5"
   },
   {
-   "src": "\/android-icon-96x96.png",
+   "src": "https://1.bp.blogspot.com/-QWaWwYOgck4/X3e_bGbWC-I/AAAAAAAASHU/yp6KwOopcBsGuem6hQU2APp96QXrqSIAgCLcBGAsYHQ/s0/android-icon-96x96.png",
    "sizes": "96x96",
    "type": "image\/png",
    "density": "2.0"
   },
   {
-   "src": "\/android-icon-144x144.png",
+   "src": "https://1.bp.blogspot.com/-id3rGHOYC6M/X3e_aNVOVPI/AAAAAAAASHI/k575zm0TW-w3TWuRg7xvIgbVNbbj-Ew-gCLcBGAsYHQ/s144/android-icon-144x144.png",
    "sizes": "144x144",
    "type": "image\/png",
    "density": "3.0"
   },
   {
-   "src": "\/android-icon-192x192.png",
+   "src": "https://1.bp.blogspot.com/-N462nzf7x6M/X3e_aTUa7nI/AAAAAAAASHE/utwNrkIbiyAe5cafFyMuyrN1LfWhXryAwCLcBGAsYHQ/s0/android-icon-192x192.png",
    "sizes": "192x192",
    "type": "image\/png",
    "density": "4.0"
