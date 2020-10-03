@@ -1,9 +1,10 @@
 {
  "name": "Tekcore",
-  "display": "standalone",
-"theme_color": "#2662aa",
-"background_color": "#000",
-  "scope": "/app/",
+ "display": "standalone",
+ "theme_color": "#2662aa",
+ "background_color": "#000",
+ "start_url": "https://tekcore.pt/?m=1"
+ "scope": "/app/",
    "description": "Todos os bits estão aqui...",
  "icons": [
   {
