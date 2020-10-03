@@ -1,5 +1,7 @@
 {
  "name": "Tekcore",
+  "display": "standalone",
+  "scope": "/app/",
  "icons": [
   {
    "src": "https://1.bp.blogspot.com/-y-fwUp3Js38/X3e_acPnawI/AAAAAAAASHM/NjPltWkEX480CD_w96Y2HMrmOpBLu5WWgCLcBGAsYHQ/s36/android-icon-36x36.png",
