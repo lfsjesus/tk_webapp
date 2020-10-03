@@ -1,6 +1,7 @@
 {
  "name": "Tekcore",
   "display": "standalone",
+"theme_color": "#2662aa",
   "scope": "/app/",
    "description": "Todos os bits estão aqui...",
  "icons": [
